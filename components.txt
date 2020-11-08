@@ -1,4 +1,5 @@
-face_recognition
-test_recognition
-lolo_testus
-okok
+face_recognition.txt
+test_recognition.txt
+lolo_testus.txt
+okok.txt
+test.txt
